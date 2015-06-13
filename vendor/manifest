@@ -1,0 +1,95 @@
+{
+	"version": 0,
+	"dependencies": [
+		{
+			"importpath": "github.com/influxdb/influxdb",
+			"repository": "https://github.com/influxdb/influxdb",
+			"revision": "a78fef940c207d1993e2881a66e9ca1711d492f8",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/boltdb/bolt",
+			"repository": "https://github.com/boltdb/bolt",
+			"revision": "be4e606bc48012421bc90eda58a8aad7a95aaf83",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/gogo/protobuf",
+			"repository": "https://github.com/gogo/protobuf",
+			"revision": "73d259f9df5303d676f48a961cb4cb225c23b7f7",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/hashicorp/raft",
+			"repository": "https://github.com/hashicorp/raft",
+			"revision": "379e28eb5a538707eae7a97ecc60846821217f27",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/armon/go-metrics",
+			"repository": "https://github.com/armon/go-metrics",
+			"revision": "b2d95e5291cdbc26997d1301a5e467ecbb240e25",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/hashicorp/go-msgpack",
+			"repository": "https://github.com/hashicorp/go-msgpack",
+			"revision": "fa3f63826f7c23912c15263591e65d54d080b458",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/hashicorp/raft-boltdb",
+			"repository": "https://github.com/hashicorp/raft-boltdb",
+			"revision": "d1e82c1ec3f15ee991f7cc7ffd5b67ff6f5bbaee",
+			"branch": "master"
+		},
+		{
+			"importpath": "golang.org/x/crypto",
+			"repository": "https://go.googlesource.com/crypto",
+			"revision": "1e856cbfdf9bc25eefca75f83f25d55e35ae72e0",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/golang/protobuf",
+			"repository": "https://github.com/golang/protobuf",
+			"revision": "34a5f244f1c01cdfee8e60324258cfbb97a42aec",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/peterh/liner",
+			"repository": "https://github.com/peterh/liner",
+			"revision": "1bb0d1c1a25ed393d8feb09bab039b2b1b1fbced",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/BurntSushi/toml",
+			"repository": "https://github.com/BurntSushi/toml",
+			"revision": "056c9bc7be7190eaa7715723883caffa5f8fa3e4",
+			"branch": "master"
+		},
+		{
+			"importpath": "gopkg.in/fatih/pool.v2",
+			"repository": "https://gopkg.in/fatih/pool.v2",
+			"revision": "cba550ebf9bce999a02e963296d4bc7a486cb715",
+			"branch": "v2.0.0"
+		},
+		{
+			"importpath": "github.com/rakyll/statik",
+			"repository": "https://github.com/rakyll/statik",
+			"revision": "274df120e9065bdd08eb1120e0375e3dc1ae8465",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/kimor79/gollectd",
+			"repository": "https://github.com/kimor79/gollectd",
+			"revision": "cf6dec97343244b5d8a5485463675d42f574aa2d",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/bmizerany/pat",
+			"repository": "https://github.com/bmizerany/pat",
+			"revision": "b8a35001b773c267eb260a691f4e5499a3531600",
+			"branch": "master"
+		}
+	]
+}
